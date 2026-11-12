@@ -7,7 +7,8 @@ def main():
         try:
             x = int(input("enter a number:"))
             break
-        except VALL 
+        except ValueError：
+            print('plese enter an inter.') 
 
     
     

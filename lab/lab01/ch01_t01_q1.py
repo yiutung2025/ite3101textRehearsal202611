@@ -1,6 +1,6 @@
 def main(x:int):
     # Remove pass with your answer.
-    num = int(input("enter a number:"))
+    x = int(input("enter a number:"))
 if num % 10 == 0 and  num % 3 != 0:
     print(f'{num} is divisible by 10 and not divisible by 3 ')
 else :

@@ -1,6 +1,6 @@
 def main():
     # Remove pass with your answer.
-   imporenter a number:)
+   impor(enter a number:)
 
 
 if __name__ == "__main__":

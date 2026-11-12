@@ -1,7 +1,7 @@
 def main():
     # Remove pass with your answer.
-   impor("enter a number:")
-   
+   imput("enter a number:")
+
 
 
 if __name__ == "__main__":

@@ -3,7 +3,8 @@
 
 
 def main():
-    
+    while True:
+        
     
     
     x = int(input("enter a number:"))    

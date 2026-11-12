@@ -12,4 +12,4 @@ def main():
         print(f'{x} is not divisible by 10 and not divisible by 3')
 
     if __name__ == "__main__":
-    main ()
+    main()

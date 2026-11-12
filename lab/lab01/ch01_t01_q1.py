@@ -1,4 +1,4 @@
-def main(x:int):
+def main(num:int):
     # Remove pass with your answer.
     
    num = int(input("enter a number:"))

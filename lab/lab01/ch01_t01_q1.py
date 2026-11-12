@@ -5,7 +5,7 @@
 def main():
     while True:
         try:
-            x 
+            x = int()
 
     
     

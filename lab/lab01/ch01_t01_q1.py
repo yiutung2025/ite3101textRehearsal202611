@@ -2,7 +2,7 @@
 
 
 
-def main(x:int):
+def main():
     
     
     x = int(input("enter a number:"))    

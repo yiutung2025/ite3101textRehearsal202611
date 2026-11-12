@@ -1,6 +1,6 @@
 
 
-input("enter a number:"))
+input("enter a number:")
 
 def main(x:int):
     # Remove pass with your answer.

@@ -1,6 +1,6 @@
 def main():
     # Remove pass with your answer.
-   import(enter a number:)
+   importname(enter a number:)
 
 
 if __name__ == "__main__":

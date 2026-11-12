@@ -1,6 +1,6 @@
 
 
-
+x = int(input("enter a number:"))
 
 def main(x:int):
     # Remove pass with your answer.

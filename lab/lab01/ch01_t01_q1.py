@@ -1,4 +1,4 @@
-def main(num:int):
+def main(x:int):
     # Remove pass with your answer.
     num = int(input("enter a number:"))
 if num % 10 == 0 and  num % 3 != 0:

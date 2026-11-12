@@ -1,6 +1,6 @@
 def main():
     # Remove pass with your answer.
-   imput(("enter a number:"))
+   imput(int("enter a number:"))
 
 
 

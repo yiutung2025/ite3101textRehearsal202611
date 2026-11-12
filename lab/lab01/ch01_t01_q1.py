@@ -1,6 +1,6 @@
 
 
-input("enter a number:")
+
 
 def main(x:int):
     input("enter a number:")

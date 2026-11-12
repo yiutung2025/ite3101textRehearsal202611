@@ -10,9 +10,6 @@ def main():
         except ValueError：
             print('plese enter an inter.') 
 
-    
-    
-    x = int(input("enter a number:"))    
     if x % 10 == 0 and  x % 3 != 0:
         print(f'{x} is divisible by 10 and not divisible by 3 ')
     else :

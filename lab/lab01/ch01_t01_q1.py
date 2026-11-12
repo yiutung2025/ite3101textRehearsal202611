@@ -4,7 +4,8 @@
 
 def main():
     while True:
-        
+        try
+
     
     
     x = int(input("enter a number:"))    

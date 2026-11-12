@@ -11,10 +11,4 @@ def main(x:int):
     else :
         print(f'{x} is not divisible by 10 and not divisible by 3')
 
-      
-
-
-
-if __name__ == "__main__":
-    # execute only if run as a script
-    main()
+    

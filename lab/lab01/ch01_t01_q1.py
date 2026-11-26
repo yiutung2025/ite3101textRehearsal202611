@@ -28,4 +28,4 @@ def main():
             print("please enter a inter")
 
     if x % 10 == 0 and x % 3  != 0:
-        print(f'')
+        print(f'{x}')

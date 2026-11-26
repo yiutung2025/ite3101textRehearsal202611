@@ -27,4 +27,4 @@ def main():
         except ValueError:
             print("please enter a inter")
 
-    if x % 
+    if x % 10 == 0 and x

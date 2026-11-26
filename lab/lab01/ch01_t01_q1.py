@@ -12,7 +12,7 @@ def main():
     if x % 10 == 0 and x % 3  != 0:
         print(f'{x} is divisible by 10 and not divisible by 3.')
     else:
-        print(f'{x} is not divisible by 10 and not divisible by 3.')
+        print(f'{x} is not divisible by 10 or divisible by 3.')
 
 if __name__ == "__main__":    
     main()

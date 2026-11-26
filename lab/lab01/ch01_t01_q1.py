@@ -22,4 +22,4 @@ if __name__ == "__main__":
 def main():
     while True:
         try:
-            x = int(input())
+            x = int(input(enter a  number))

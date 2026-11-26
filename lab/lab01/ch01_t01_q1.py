@@ -25,4 +25,4 @@ def main():
             x = int(input("enter a  number"))
             break
         except ValueError:
-            print("")
+            print("please enter a inter")

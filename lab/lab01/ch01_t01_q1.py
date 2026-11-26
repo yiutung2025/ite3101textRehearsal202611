@@ -1,24 +1,6 @@
 
 
 
-
-def main():
-    while True:
-        try:
-            x = int(input("enter a number:"))
-            break
-        except ValueError:
-            print('plese enter an inter.') 
-
-    if x % 10 == 0 and  x % 3 != 0:
-        print(f'{x} is divisible by 10 and not divisible by 3 ')
-    else :
-        print(f'{x} is not divisible by 10 and not divisible by 3')
-
-if __name__ == "__main__":    
-    main()
-
-
 def main():
     while True:
         try:

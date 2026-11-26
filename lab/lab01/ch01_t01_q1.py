@@ -1,7 +1,7 @@
 
 
 
-,,,
+
 def main():
     while True:
         try:
@@ -17,7 +17,7 @@ def main():
 
 if __name__ == "__main__":    
     main()
-''''
+
 
 def main():
     while True:

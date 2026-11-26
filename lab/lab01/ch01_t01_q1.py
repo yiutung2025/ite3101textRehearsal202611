@@ -20,4 +20,5 @@ if __name__ == "__main__":
 
 
 def main():
-    
+    while True:
+        try:

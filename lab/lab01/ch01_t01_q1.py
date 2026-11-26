@@ -6,7 +6,7 @@ def main():
         try:
             x = int(input("enter a  number "))
             break
-        except ValueError:
+        except ValueError:50
             print("please enter a inter")
 
     if x % 10 == 0 and x % 3  != 0:
